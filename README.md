@@ -1,0 +1,2 @@
+# fairsharer
+Fair sharer exercise
